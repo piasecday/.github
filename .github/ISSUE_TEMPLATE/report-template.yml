@@ -13,9 +13,3 @@ body:
       description: Kirjoita alle. 
     validations:
       required: true
-  - type: textarea
-    id: what-happened
-    attributes:
-      label: Listaa, mistä raportti koostuu.
-    validations:
-      required: true

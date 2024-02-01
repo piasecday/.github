@@ -5,3 +5,12 @@ labels: ["report"]
 projects: ["piasecday/3"]
 assignees:
   - benjamsf
+body:
+  - type: markdown
+    attributes:
+      value: |
+       Minkä osatehtävän raportti?
+  - type: textarea
+    id: what-happened
+    validations:
+      required: true

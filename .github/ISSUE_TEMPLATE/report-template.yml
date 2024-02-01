@@ -1,16 +1,20 @@
-name: Announce Report Template
-description: Post this ticket to announce you have uploaded a Report. 
-title: "[Report]: "
+name: Announce Report
+description: Post this ticket to announce that you have uploaded a Report. 
+title: "[Report]: Task number & Your team name here"
 labels: ["report"]
 projects: ["piasecday/3"]
 assignees:
   - benjamsf
 body:
-  - type: markdown
-    attributes:
-      value: |
-       Minkä osatehtävän raportti?
   - type: textarea
     id: what-happened
+    attributes:
+      label: Minkä osatehtävän raportti kyseessä?
+    validations:
+      required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: Listaa, mistä raportti koostuu.
     validations:
       required: true

@@ -10,6 +10,7 @@ body:
     id: what-happened
     attributes:
       label: Minkä osatehtävän raportti kyseessä?
+      description: Kirjoita alle. 
     validations:
       required: true
   - type: textarea

@@ -1,8 +1,7 @@
----
-name: Report template
-about: Announce your report with this ticket 
-title: "[Report] - "
-labels: help
-assignees: ''
----
-Plan & decide how you report. Utilize this ticket format at least to **announce** the report is there. 
+name: Announce Report Template
+description: Post this ticket to announce you have uploaded a Report. 
+title: "[Report]: "
+labels: ["report"]
+projects: ["piasecday/3"]
+assignees:
+  - benjamsf

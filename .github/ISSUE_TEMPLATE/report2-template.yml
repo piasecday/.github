@@ -3,8 +3,6 @@ description: Post this ticket to announce that you have submitted a report.
 title: "[Report on task] Task number & Your team name here"
 labels: ["documentation"]
 projects: ["piasecday/3"]
-assignees:
-  - benjamsf
 body:
   - type: textarea
     id: what-happened

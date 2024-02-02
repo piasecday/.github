@@ -3,8 +3,6 @@ description: Post this ticket to announce that you have reached a goal. NOTE! Do
 title: "[Reached a goal] Task number & Your team name here"
 labels: ["enhancement"]
 projects: ["piasecday/3"]
-assignees:
-  - benjamsf
 body:
   - type: textarea
     id: what-happened

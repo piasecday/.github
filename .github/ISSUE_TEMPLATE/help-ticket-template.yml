@@ -3,8 +3,6 @@ description: If you need help, fill this ticket - we get to it!
 title: "[Help] "
 labels: ["help wanted"]
 projects: ["piasecday/3"]
-assignees:
-  - benjamsf
 body:
   - type: textarea
     id: what-happened

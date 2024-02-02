@@ -1,6 +1,6 @@
 name: 02 - Announce Reaching a Goal
 description: Post this ticket to announce that you have reached a goal. NOTE! Do this immediately when you have reached the goal & you can demonstrate it. You can write the report afterwards.
-title: "[Reached a goal: Task number & Your team name here"
+title: "[Reached a goal] Task number & Your team name here"
 labels: ["reached-goal"]
 projects: ["piasecday/3"]
 assignees:

@@ -1,7 +1,7 @@
 name: 03 - Announce Report has been Submitted
 description: Post this ticket to announce that you have submitted a report.
 title: "[Report on task] Task number & Your team name here"
-labels: ["report"]
+labels: ["documentation"]
 projects: ["piasecday/3"]
 assignees:
   - benjamsf

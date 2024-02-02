@@ -1,6 +1,6 @@
-name: Announce Report
-description: Post this ticket to announce that you have uploaded a Report. 
-title: "[Report]: Task number & Your team name here"
+name: Announce Reaching a Goal
+description: Post this ticket to announce that you have reached a goal. NOTE! Do this immediately when you have reached the goal & you can demonstrate it. You can write the report afterwards.
+title: "[Reached a goal:] Task number & Your team name here"
 labels: ["report"]
 projects: ["piasecday/3"]
 assignees:
@@ -9,7 +9,7 @@ body:
   - type: textarea
     id: what-happened
     attributes:
-      label: Mikä raportti kyseessä?
+      label: Minkä osatehtävän ratkaisitte?
       description: Kirjoita alle. 
     validations:
       required: true

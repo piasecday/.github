@@ -1,6 +1,6 @@
 name: Get help
 description: If you need help, fill this ticket - we get to it!
-title: "[Help]: "
+title: "[Help] "
 labels: ["help"]
 projects: ["piasecday/2"]
 assignees:
